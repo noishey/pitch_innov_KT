@@ -1,0 +1,17 @@
+# JUCE / Xcode / macOS
+Builds/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+.DS_Store
+
+# VST/AU build artefacts
+*.vst3
+*.component
+*.aaxplugin
+*.a
+
+# Misc
+*.log
